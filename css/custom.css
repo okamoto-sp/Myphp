@@ -1,0 +1,32 @@
+.wap{
+  width: 1280px;
+  background-color: darkred;
+}
+.wap p{
+  color: white;
+}
+
+#custom01{
+  padding-top: 30px;
+}
+#custom01 img{
+  margin: 0 auto;
+}
+#custom02{
+  padding-top: 30px;
+}
+#custom02 img{
+  height: 300px;
+  margin: 0 auto;
+}
+#custom03{
+  padding-top: 30px;
+}
+#custom03 img{
+  height: 300px;
+  margin: 0 auto;
+}
+#bottan{
+  padding-top: 30px;
+  padding-left: 520px;
+}

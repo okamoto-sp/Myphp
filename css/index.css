@@ -1,0 +1,60 @@
+.wap{
+  width: 1280px;
+  background-color: darkred;
+}
+#logo{
+  margin:0 auto;
+  background-color: black;
+}
+#logo a{
+  font-size: 30px;
+  padding-left: 20px;
+  color: white;
+}
+#main_img img{
+  width: 1280px;
+  margin: 0 auto;
+  padding-bottom:30px;
+}
+#wapper{
+  background-image: url(../img/logo.jpg);
+  background-size: 1280px auto;
+}
+#bottan1{
+  float: left;
+}
+#bottan1 p{
+  text-align: center;
+  color: white;
+}
+#bottan1 img{
+  width: 600px;
+  padding-top: 32px;
+  float: left;
+}
+#bottan2 p{
+  text-align: center;
+  color: white;
+  padding-left: 650px;
+}
+#bottan2 img{
+  width: 600px;
+  float: right;
+  padding-top: 30px;
+}
+#instagram{
+  padding-top: 20px;
+  margin: 0 auto;
+}
+#instagram p{
+  text-align: center;
+  font-weight: bold;
+  color: gold;
+  font-size: 30px;
+}
+#site{
+  margin: 0 auto;
+}
+.media-grid{
+  margin: 0 auto;
+}

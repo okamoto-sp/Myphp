@@ -1,0 +1,19 @@
+.wap{
+  width: 1280px;
+  background-color: darkred;
+}
+#main_img img{
+  width: 1280px;
+}
+#expln p{
+  color: white;
+}
+#expln img{
+  width: 660px;
+  height: 460px;
+  padding-left: 20px;
+}
+#bottan{
+  padding-top: 30px;
+  padding-left: 520px;
+}
